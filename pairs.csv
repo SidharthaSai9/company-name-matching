@@ -1,0 +1,201 @@
+pair_id,name_a,name_b
+P001,gd co.,Wipro
+P002,The Verizon Communications Inc,VERIZON
+P003,"Ford, Pvt Ltd", Ford Motor Company 49812 
+P004,"Progressive Corporation, PLC",Progressive Insurance
+P005,Cisco,Cisco
+P006,The Capgemini,"Capgemini, Co"
+P007,  Liberty Media Holdings,LIBERTY MEDIA LLC
+P008,"The Samsung Electronics Co., Ltd. Corporation",Liberty Media S.A.
+P009,"RTX, Co.",Raytheon
+P010,The alphabet,Google LLC
+P011,MARRIOTT INTERNATIONAL CORPORATION,marriott
+P012,Accenture,3M
+P013,Pfizer 94778,The Pfizer LP
+P014,  Airbus  ,Airbus
+P015,"The Sony Group Corporation, Corporation",Microsoft
+P016,Netflix LLC / HQ 16756,ExxonMobil plc
+P017,The Gap Inc Pvt Ltd,GAP (DIVISION)
+P018,	COGNIZANT,"continental,  corporation"
+P019,"novartis, plc",Novartis
+P020,	The T Mobiel,KPMG oHldings
+P021,,"UNITED PARCEL SERVICE, INC."
+P022,KPMG PLC,kpmg international limited
+P023,Sunoco  Pvt  Ltd,Sunoco LP Pvt Ltd
+P024,The Airbus SSE,AIRBUS
+P025,delta,DELTA AIRLINES LTD
+P026,Novartis Pvt Ltd - Subsidiary,"NOVARTIS, LIMITED"
+P027,  Liberty Mutual Co 20307,Liberty Mutual
+P028,G.E. Ltd,GE
+P029, Procter & Gamble,"mirosoft, ag"
+P030,Target,TARGET -- APAC
+P031,Volkswagen,VW
+P032, HP Ltd,Hewlett-Packard
+P033,Amex,"Aimex, LP"
+P034,"The Home Depot, Inc.","The Home Depot, Inc., plc"
+P035,"LIBERTY MEDIA CORPORATION, CORP.","The Standard Cartered, Inc."
+P036,Continental  Tire,"Continental Airlines, GmbH"
+P037,Marriott Co / Subsidiary,marriott lp
+P038,"Citibank, PLC, UK","Ciitigroup, L.L.C."
+P039,The Target Corporation,"Pacific Gas & Electric, Corp."
+P040,"Sunrun, LP",RAYTHEsON
+P041,"ORACLE, MARKETING",  ORACLE  
+P042,-, walgreens incorporated 
+P043,The Caterpillar Inc.,CAT
+P044,Continental Airlines,Continental  Tire
+P045,northrop llc,NORTHROP GRUMMAN S.A.
+P046,the walt disney pvt ltd,"national instruments ccorporation, company"
+P047,NATIONAL GRID,"national instruments ccorporation, company"
+P048,T-Mobile Ltd.,HCL
+P049,PriceWaterhouseCoopers,PRICEWATERHOUSECOOPERS
+P050,Sunrun,sunoco co
+P051,WF,  WF Holdings 
+P052,DELOITTE TOUCHE TOHMATSU LIMITED LC,Deloitte Touche Tohmatsu 77830
+P053,NATIONAL GRID,National Instruments
+P054,The Philips,Coca-Cola
+P055,The Boeing Company Company,PriceWaterhouseCoopers
+P056,Northrop Grumman Corporation,Northrop Grumman
+P057,UHG NV 43583,"saesforce, lp"
+P058,Unknown Vendor,B Limited
+P059,Philiips,"KONINKLIJKE PHILIPS N.V., INC."
+P060,Ernst  and  Young Global,Facebook Inc
+P061,The FedEx Corporation,Nokia
+P062,"National Instruments, Ltd. 49881",National Grid
+P063,	COGNIZANT,CTS Incorporated
+P064,Liberty Media,Liberty Mutual [Procurement]
+P065,ATT,ATT SE
+P066,Federal Express,The FedEx
+P067,Sbtarbucks,Starbucks Coffee Co (Procurement)
+P068,Hilton,Samsung
+P069,"Advanced Micro Devices, Inc. Inc.",AMD
+P070,bp p.l.c.,CAT
+P071,"Adobe, GmbH",Adobe Systems
+P072,AEO Co.,"AEO, Holdings"
+P073,Continental,"Liberty Media, Limited"
+P074,Telefonaktiebolaget LM Eriscson AG,Disney
+P075,The Sony Corp - EMEA,Sony  Group  Corporation
+P076,Adobe Systems,Adobe Incorporated
+P077,	Hilton Worldwide Holdings ,"Walgreens, Corp"
+P078,Morgan Stanley  & ,NVDA
+P079,LIBERTY MUTUAL INSURANCE COMPANY,Liberty Mdia
+P080,	STANDARD CHARTERED PLC,	STANDARD INDUSTRIES INC.  
+P081, pacific life insurance,Pacific Gas & Electric / HQ
+P082,"SAP SE, L.L.C.",SAP
+P083,LOWESCO.,Lowes Co
+P084,United Parcel Service / R&D,"UPS, LLC"
+P085,"Pacific Life, Pvt Ltd","Pacific Gas & Electric, Corp."
+P086,Amex,amex
+P087,UHG NV 43583, The UHG  
+P088,"Kroger, Ltd.",KROGER
+P089,Shell,  Shell plc -- Marketing 
+P090,Nestle Incorporated,"Nestle Ltd., Marketing 42537"
+P091,nokia corporation - region 4,"Nokia, Co."
+P092,Ford Motor,Amazon
+P093,APPLE INC. INC,APPLE CORPORATION
+P094,Liberty Media,Liberty Mutual plc
+P095,"  Samsung Electronics, Company",The International Business Machines Corporation
+P096,"Delta, Corporation, Marketing","Delta Dental Plans Association, NV (Procurement)"
+P097,United Parcel Service / R&D,UPS
+P098,"The Standard Chartered, Company (Division)",Standard Chartered
+P099,Caterpillar,Caterpillar Inc.
+P100,"the  boeing  company,  corp",Boeing Pvt Ltd
+P101,"	LIBERTY MEDIA, COMPANY - HQ  ",  Liberty Mutual Co 20307
+P102,HILTON  WORLDWIDE  HOLDINGS,Hilton Company
+P103,"The Standard Cartered, Inc.", The Standard Industries 
+P104,	Adobe Inc,"ADOBE INC., PVT LTD"
+P105,"Oracle Corporation, Co.","Oracl, LLC"
+P106,CVS - EMEA,HCL
+P107,Ernst and Young,ernst & young global 97612
+P108,Amazon,"AMAZON COM, PVT LTD"
+P109,"Advanced Micro Devices, Inc. Inc.",Ericsson SA
+P110,Federal Express,FedEx
+P111, GD Corp.,Capgemini SE LLC
+P112,AmEx Inc. 20843,amex
+P113,First Republic - APAC,First Republic Bank Corp
+P114,Royal Dutch Shell [Group],Royal Dutch Shell Co
+P115,"coca cola, inc.",Do Not Use
+P116,SAP,"The  SAP,  LLC"
+P117,Northrop,The Northrop Grumman
+P118,test,citi co [global services]
+P119,xfinity,sunoco co
+P120,	American Airlines Inc  ,"AA, Corp"
+P121,Nestle Incorporated,"Morgan Stanley  & , L.L.C."
+P122,"LIBERTY MEDIA CORPORATION, CORP.",???
+P123,nestlé,Nestlé
+P124,Chvron,CHEVRON CORPORATION
+P125,"The Standard Cartered, Inc.","Samsung Electronics Co., Ltd."
+P126,Lowes Inc.,"national instruments ccorporation, company"
+P127, SAP,SAP
+P128,"Progressive Insurance, Incorporated",Progressive Leasing Incorporated
+P129,Cisco,Cisco -- Finance Dept
+P130,First Republic, The First National Bank of Omaha LP
+P131,"target corporation, corporation",Roche 61169
+P132,"HCL Tech, Corp","LIBERTY MEDIA CORPORATION, CORP."
+P133,CAT,THE KROGER CO
+P134,"Progressive Insurance, Incorporated",Cognizant 5924
+P135,ACCENTURE,	Siemens S.A.  
+P136,The Hewlett-Packard,Dell Computer Pvt Ltd 22230
+P137,The Comcast Corporation,Xfinity LLC
+P138,Delta,Delta Dental
+P139,"Liberty Mutual, AG, Nonrth America","Liberty Media, Limited"
+P140,Cisco,Cisco
+P141,HONEYWELL INTERNATIONAL AG,Honeywell
+P142,standard industries [uk],	STANDARD CHARTERED PLC
+P143,Standard Industries (US),standard industries inc. corp.
+P144,"Progressive Leasing, L.L.C.","Progressive Corporation, PLC"
+P145,"Microsoft, NV","Oracle, US"
+P146,advanced micro devices plc,"The  COCA  COLA,  CO."
+P147,3M Company,Minnesota Mining and Manufacturing PLC - North America
+P148,SONY GROUP / GROUP,"Sony, Inc"
+P149,Chvron,1234
+P150,"cts, west",  First Republic
+P151,Panasonic,panasonic holdings corporation
+P152,Verizon Communications,  accentture
+P153,"national instruments ccorporation, company",National Grid
+P154,Delta  Dental,"DELTA AIR LINES, INC. (FINANCE DEPT)"
+P155,	General Mills L.L.C. 73044 ,General Mills
+P156,PG&E 89201,PGANDE GMBH
+P157,"WF, Lgal",Wells Fargo / Group
+P158,TEST ACCOUNT,"CVS Pharmacy, Co."
+P159,see notes,Amex
+P160,Progressive Leasing Incorporated,null
+P161,"WF, Incorporated",Pepsi [West]
+P162,"  National Grid, NV ",The National Instruments
+P163,liberty mutual insurance company,Liberty Media
+P164,  Costco Wholesale 43204,	Costco
+P165,NVIDIA -- DIVISION,NVIDIA
+P166,ATT,AT&T SE -- Procurement
+P167,The Progressive Insurance Holdings,Progressive Leasing / Legal
+P168,Hilton,  Hilton 
+P169,"General Mills, Inc. Ltd. (Finance Dept) 58270",LIBERTY MEDIA LLC
+P170,"Ford, Pvt Ltd",Ford
+P171,Continental Airlines,"continental tire the americas, llc, emea"
+P172,Naational Grid,HP Inc. GmbH
+P173,delta,  The delta airlinnes  
+P174,Liberty Media - US,"LIBERTY MUTUAL, HOLDINGS"
+P175,"GE, Co.", G.E. (UK)  
+P176,Cosstco,Costco Wholesale Corporation 24792
+P177,Capgemini SE LLC,Starbucks Coffee
+P178,The Gap PLC,Gap
+P179,Accenture 25263,Accenture plc
+P180,GD,PGandE [UK]
+P181,Continental Tire,"Continental Airlines, Inc"
+P182,"Advanced Micro Devices, Inc. Inc.","Google, HQ"
+P183,WALMART INC. LLC -- SUBSIDIARY,Microsoft
+P184,Standard Chartered,standard industries inc. corp.
+P185,American Airlines,"american eagle outfitters, inc."
+P186,aeo,"AMERICAN EAGLE, PLC"
+P187,The Comcast Corporation,"Standard Industries, AG"
+P188,The panasonic holdings corporation[ us],panasonic holdings corporation
+P189,FedEx,Federal Express Inc. (EMEA)
+P190,Delta,"Delta Airilnes, plc"
+P191,Morgan Stanley  & ," Morgan Stanley, plc"
+P192,astrazeneca inc,Pepsi [West]
+P193,AMD,The Sunrun Inc. NV
+P194,Hiton,"Hilton Worldwide Holdings Inc., UK"
+P195,NATIONAL GRID,"National Grid, Corporation"
+P196,"The Cisco, Co",Cisco -- Finance Dept
+P197,The Unilever 12389,UNILEVER
+P198,Costco,The Costco
+P199,"Intel, Pvt Ltd",INTEL LTD.
+P200, HP Inc. ,Mcdonald'S
